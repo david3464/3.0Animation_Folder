@@ -9,16 +9,11 @@ a {
 
 
 #div1 { width: 200px; height: 100px; background:#ccc; border: 1px solid #999; display: none;}
-/* lecture 01 */
 #div2 { width: 200px; height: 200px; background:red}
-/* lecture 01 */
 #div3 { width: 100px; height: 200px; background:#ccc; display: none;}
-/* lecture 02 */
 #div4 { width: 100px; height: 100px; border: 1px solid black}
-/* lecture 02 & 03 */
 #div5 { width: 100px; height: 100px; border: 1px solid black}
-/* lecture 03 */
-#div6 { }
+#div6 { width: 100px; height: 100px; border: 1px solid black}
 #div7 { width: 200px; height: 200px; border: 1px solid black; float:left; margin:10px;}
 
 .box {background: red}
