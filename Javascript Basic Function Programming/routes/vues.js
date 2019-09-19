@@ -12,7 +12,7 @@ router.get('/index', function(req, res, next) {
 //descriptions: Vue Course One
 //comments: 
 router.get('/01', function(req, res, next) {
-  res.render('functions/tutorials/tut01');
+  res.render('functions/vues/vue01');
 });
 
 module.exports = router;

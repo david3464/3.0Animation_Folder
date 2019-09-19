@@ -21,7 +21,7 @@ router.get('/test', function(req, res, next) {
 //comments: 
 router.get('/01', function(req, res, next) {
     res.render('functions/preps/prep01');
-  });
+});
 
 //router address localhost:2001/func_preps/02
 //descriptions: Prerequisite Course One
