@@ -14,16 +14,15 @@ function setText() {
 }
 
 function showHide() {
-    var oDiv = document.getElementById('div3');
+    var oDiv = document.getElementById('div1');
     if (oDiv.style.display == 'block') {
         oDiv.style.display = 'none';
     } else {
         oDiv.style.display = 'block';
     }    
 }
-
 function toRed() {
-    var oDiv = document.getElementById('div4');
+    var oDiv = document.getElementById('div2');
     oDiv.className='box'
 }
 
