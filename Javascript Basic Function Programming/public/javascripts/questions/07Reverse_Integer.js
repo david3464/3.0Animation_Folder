@@ -5,7 +5,7 @@ Specifications
 */
 // solution 1
 var RI07_1 = function(num) {
-    let y;
+    var y;
     if(num < 0){
         y=num.toString().split('').reverse();
         console.log(y);
