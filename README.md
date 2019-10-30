@@ -6,3 +6,4 @@
 2. Function(ejs engine Template)                                                                                                   
    1 Photo Animation 3. Circle Rotate Hand (Fully Comment Enables)                localhost:1103 (ejs)                             
    3 Special Skill 1.Decode for JS file                                           localhost:1301 (ejs)                                 PS: start eval(function(p,a,c,k,e,d){e=function(c)
+   4 Photo Animation 4. Auto Circle Rotate                                        localhost:1104 (ejs)
