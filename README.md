@@ -1,7 +1,7 @@
 # DavidPrivateAnimationFolder
 1. Function(hbs engine Template)                                                                                                   
    1 Photo Animation 1. Slide Rotate 照片切片旋转                                   localhost:1101（hbs)                             
-   1 Photo Animation 2. Fold Animation                                            localhost:1102（hbs)                             
+   1 Photo Animation 2. Fold Animation 照片折叠翻开                                 localhost:1102（hbs)                             
    2 Cartoon Animation 1. Cube Rotate and Slide Slice                             localhost:1201（hbs)                             
 2. Function(ejs engine Template)                                                                                                   
    1 Photo Animation 3. Circle Rotate Hand (Fully Comment Enables)                localhost:1103 (ejs)                             
